@@ -96,7 +96,6 @@
     </div>
 </div>
 
-
 <div class="products-area pb-75">
     <div class="container">
         <div class="section-title">
@@ -183,7 +182,7 @@
 <div class="products-area pb-75">
     <div class="container">
         <div class="section-title">
-            <h2>Bán Chạy Nhất</h2>
+            <h2>Sản phẩm mới</h2>
         </div>
         <div class="products-slides owl-carousel owl-theme">
             <?php foreach ($product as $key => $value) :

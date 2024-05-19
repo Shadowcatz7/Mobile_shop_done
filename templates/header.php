@@ -13,6 +13,7 @@ session_start();
                     <p>Miễn phí giao hàng  với đơn hàng đầu tiên</p>
                 </div>
                 <div class="col-lg-5 col-md-5 col-sm-6">
+                    <!-- Search -->
                     <div class="search-box">
                         <form action="shop.php" method="POST">
                             <input type="text" class="input-search" id="tk" placeholder="Nhập tên sản phẩm..." name="tu_khoa">
@@ -39,7 +40,7 @@ session_start();
             <div class="container">
                 <div class="patoi-responsive-menu">
                     <div class="logo">
-                        <a href="index.php"><img src="public/img/logo.png" alt="logo"></a>
+                        <a href="index.php"><img src="public/img/logo.jpg" alt="logo"></a>
                     </div>
                 </div>
             </div>
@@ -47,7 +48,7 @@ session_start();
         <div class="patoi-nav">
             <div class="container">
                 <nav class="navbar navbar-expand-md navbar-light">
-                    <a class="navbar-brand" href="index.php"><img src="public/img/logo.png" alt="logo" width="260"></a>
+                    <a class="navbar-brand" href="index.php"><img src="public/img/logoweb.jpg" alt="logo" width="180">SHADOWCATZSHOP</a>
                     <div class="collapse navbar-collapse mean-menu">
                         <ul class="navbar-nav">
                             <li class="nav-item"><a href="index.php?index" class=" nav-link <?php echo isset($_GET['index']) ? "active" : " "; ?>">TRANG CHỦ</a>

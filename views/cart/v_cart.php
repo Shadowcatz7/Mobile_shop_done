@@ -88,6 +88,9 @@
                                 </div>
                             </div>
                         </div>
+                        <div class="col-lg-4 col-md-4 col-sm-10">
+                    <p>Miễn phí giao hàng  với đơn hàng đầu tiên</p>
+                        </div>
                         <div class="cart-totals">
                             <ul>
                                 <li>Phí Vận Chuyển : <span>0 VNĐ</span></li>
@@ -97,6 +100,7 @@
                             <!-- <input type="button" name="btn_checkout" onclick="location.href='check_out.php'"  class="default-btn" value="Mua Hàng"> -->
                             <button type="button" name="btn_checkout" onclick="location.href='check_out.php'" class="default-btn"><span>Mua Hàng</span></button>
                         </div>
+                       
                     <?php } else {
                         echo " ";
                     } ?>

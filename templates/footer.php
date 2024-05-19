@@ -4,9 +4,9 @@
             <div class="col-lg-3 col-md-6 col-sm-6">
                 <div class="single-footer-widget">
                     <ul class="footer-contact-info">
-                        <li><span>Hotline:</span> <a href="tel:(+84) 999999999">0999999999</a></li>
-                        <li><span>Hỗ trợ kỹ thuật:</span> <a href="tel:(+84) 999999999">0999999999</a></li>
-                        <li><span>Email:</span> <a href="mailto:hoanghamobile@gmail.com">hoanghamobile@gmail.com</span></a></li>
+                        <li><span>Hotline:</span> <a href="tel:(+84) 88913062">09888913062</a></li>
+                        <li><span>Hỗ trợ kỹ thuật:</span> <a href="tel:(+84) 3242162">0908324213</a></li>
+                        <li><span>Email:</span> <a href="mailto:shadowcatz@gmail.com">shadowcatz@gmail.com</span></a></li>
                         <li><span>Địa Chỉ:</span> Việt Nam</li>
                     </ul>
                 </div>

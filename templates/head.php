@@ -18,6 +18,8 @@
     <link rel="stylesheet" href="public/css/meanmenu.min.css">
     <link rel="stylesheet" href="public/css/style.css">
     <link rel="stylesheet" href="public/css/responsive.css">
-    <title>Hoàng Hà Mobile - Cửa hàng di động số 1 tại Việt Nam</title>
-    <link rel="icon" type="image/png" href="public/img/favicon.ico">
+    <!-- icon website -->
+    <title>Shadowcatz Shop - Cửa hàng di động số 1 tại Việt Nam</title>
+    
+    <link rel="icon" type="image/png" href="public/img/logo.jpg">
 </head>
